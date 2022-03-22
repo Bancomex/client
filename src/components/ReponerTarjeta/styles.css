@@ -1,0 +1,39 @@
+.header__reponerTarjeta{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto; 
+}
+
+.date__reponerTarjeta{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    border-bottom: 1px solid black;
+}
+
+.input__reponerTarjeta{
+    width: 50%;
+    margin-top: 2rem !important;
+}
+
+.header__reponerTarjeta p{
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 50px;
+    color: #333333;
+    margin: 0;
+}
+
+.form__reponerTarjeta{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+}
